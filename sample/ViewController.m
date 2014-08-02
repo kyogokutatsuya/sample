@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     NSLog(@"hoge");
-    NSLog(@"hoge");
+    NSLog(@"hoge2");
 }
 
 - (void)didReceiveMemoryWarning
